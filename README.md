@@ -14,4 +14,4 @@ Command Line Interpreter with Suggestions and AutoComplete for Laravel 5
 - Yo also can move into history using **UP Arrow** and **DOWN Arrow** key.
 
 Example of how it works:
-<img src="tree/master/screenshot/functionality.gif"></img>
+<img src="screenshot/functionality.gif"></img>
