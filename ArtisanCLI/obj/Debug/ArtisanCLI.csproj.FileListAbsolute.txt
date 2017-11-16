@@ -1,0 +1,11 @@
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
+D:\VStudio\Visual Studio 2017\Projects\ArtisanCLI\ArtisanCLI\bin\Debug\ArtisanCLI.exe.config
+D:\VStudio\Visual Studio 2017\Projects\ArtisanCLI\ArtisanCLI\bin\Debug\ArtisanCLI.exe
+D:\VStudio\Visual Studio 2017\Projects\ArtisanCLI\ArtisanCLI\bin\Debug\ArtisanCLI.pdb
+D:\VStudio\Visual Studio 2017\Projects\ArtisanCLI\ArtisanCLI\obj\Debug\ArtisanCLI.csprojResolveAssemblyReference.cache
+D:\VStudio\Visual Studio 2017\Projects\ArtisanCLI\ArtisanCLI\obj\Debug\ArtisanCLI.exe
+D:\VStudio\Visual Studio 2017\Projects\ArtisanCLI\ArtisanCLI\obj\Debug\ArtisanCLI.pdb

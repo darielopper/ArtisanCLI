@@ -1,0 +1,6 @@
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csprojResolveAssemblyReference.cache
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+D:\VStudio\Visual Studio 2017\Projects\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
