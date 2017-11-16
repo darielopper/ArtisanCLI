@@ -12,3 +12,6 @@ Command Line Interpreter with Suggestions and AutoComplete for Laravel 5
   - **DOWN Arrow** key to move forward into suggestions.
   
 - Yo also can move into history using **UP Arrow** and **DOWN Arrow** key.
+
+Example of how it works:
+<img src="tree/master/screenshot/functionality.gif"></img>
